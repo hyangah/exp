@@ -1,0 +1,4 @@
+github.com/hyangah/exp v0.0.0-20181004020705-b544d8954824 h1:5uSKN9hXsVSfl6dlSb2ukBuCcSUNV5D6X/TcuUYA4wM=
+github.com/hyangah/exp v0.0.0-20181004020705-b544d8954824/go.mod h1:6hSXSDZC8bvrthS4MXiApBF3mul8d/fPkBPDI1hlqFg=
+github.com/hyangah/exp/lib1/v2 v2.0.0 h1:jZ0Fmg0hjrfAXpRe0Az1aXWWDdv7taMuzlN3h87CwWg=
+github.com/hyangah/exp/lib1/v2 v2.0.0/go.mod h1:covZSo+4JOjS1S6n5Q1Pq2hcbw8EhYMZoR3+TmL/Xs0=
