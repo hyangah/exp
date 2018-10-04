@@ -1,4 +1,4 @@
-module github.com/hyangah/exp/cmd/foobar
+module github.com/hyangah/exp/cmd/foobar/v2
 
 require (
 	github.com/hyangah/exp v0.0.0-20181004020705-b544d8954824 // indirect
