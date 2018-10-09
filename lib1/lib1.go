@@ -8,4 +8,8 @@ func Name() string {
 	return common.Name("lib1", Ver)
 }
 
+func Name2() string {
+	return "somename"
+}
+
 
